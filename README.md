@@ -1,5 +1,5 @@
 # Desafio-Desenvolva-uma-Landing-Page
-Link do site disponibilizado: <br>
+Link do site disponibilizado: https://desafio1dncinicial.netlify.app/ <br>
 
 Link da Planilha de Registro de informação: https://docs.google.com/spreadsheets/d/1zoG8DrewKVYZ_cmbG7BaAdViYH2PfZnzFe9reASOhAI/edit?usp=sharing  <br>
 
